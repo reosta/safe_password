@@ -1,0 +1,2 @@
+enum AppStates {WAITING,LOADING,DONE,ERROR}
+enum SupportState { UNKNOW, SUPPORTED, UNSUPPORTED, }
